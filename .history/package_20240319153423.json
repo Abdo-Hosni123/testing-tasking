@@ -14,17 +14,13 @@
     "jest-cli": "^29.7.0"
   },
   "jest": {
-    "collectCoverage": true,
+    "collectCoverage": "true",
     "coverageReporters": [
       "html"
     ],
     "coverageDirectory": "reports",
     "collectCoverageFrom": [
       "**/*.{js,jsx,ts}"
-    ],
-    "coveragePathIgnorePatterns": [
-      "/node_modules/",
-      "/build/"
     ]
   }
 }
