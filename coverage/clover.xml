@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1710852360335" clover="3.2.0">
+  <project timestamp="1710852360335" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="4" elements="31" coveredelements="31" complexity="0" loc="17" ncloc="17" packages="1" files="4" classes="4"/>
+    <file name="All.js" path="C:\Users\Abd-Elrahman Hosni\OneDrive\Desktop\security\All.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+    <file name="input.js" path="C:\Users\Abd-Elrahman Hosni\OneDrive\Desktop\security\input.js">
+      <metrics statements="10" coveredstatements="10" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="2" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="8" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="15" count="6" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="say.js" path="C:\Users\Abd-Elrahman Hosni\OneDrive\Desktop\security\say.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="C:\Users\Abd-Elrahman Hosni\OneDrive\Desktop\security\sum.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="6" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
